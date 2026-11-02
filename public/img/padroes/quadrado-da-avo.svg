@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240"><rect x="6" y="6" width="228" height="228" rx="12" fill="none" stroke="#8A7468" stroke-width="3" stroke-dasharray="2 8" stroke-linecap="round" opacity="0.5"></rect><rect x="30" y="30" width="180" height="180" rx="8" fill="none" stroke="#8A7468" stroke-width="2" opacity="0.35"></rect><ellipse cx="120" cy="90.00" rx="11.25" ry="18.75" transform="rotate(0 120 120)" fill="#8A7468" opacity="0.45"></ellipse>
+<ellipse cx="120" cy="90.00" rx="11.25" ry="18.75" transform="rotate(45 120 120)" fill="#8A7468" opacity="0.45"></ellipse>
+<ellipse cx="120" cy="90.00" rx="11.25" ry="18.75" transform="rotate(90 120 120)" fill="#8A7468" opacity="0.45"></ellipse>
+<ellipse cx="120" cy="90.00" rx="11.25" ry="18.75" transform="rotate(135 120 120)" fill="#8A7468" opacity="0.45"></ellipse>
+<ellipse cx="120" cy="90.00" rx="11.25" ry="18.75" transform="rotate(180 120 120)" fill="#8A7468" opacity="0.45"></ellipse>
+<ellipse cx="120" cy="90.00" rx="11.25" ry="18.75" transform="rotate(225 120 120)" fill="#8A7468" opacity="0.45"></ellipse>
+<ellipse cx="120" cy="90.00" rx="11.25" ry="18.75" transform="rotate(270 120 120)" fill="#8A7468" opacity="0.45"></ellipse>
+<ellipse cx="120" cy="90.00" rx="11.25" ry="18.75" transform="rotate(315 120 120)" fill="#8A7468" opacity="0.45"></ellipse>
+<circle cx="120" cy="120" r="6.88" fill="none" stroke="#8A7468" stroke-width="3.25"></circle></svg>

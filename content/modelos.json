@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "sambura-cacau",
+    "nome": "Samburá Cacau",
+    "colecao": "mata",
+    "linha": "Terra",
+    "resumo": "Ponto pipoca, base estruturada, alças de couro.",
+    "descricao": "A bolsa que dá nome ao ateliê. Trama em ponto pipoca na cor cacau, base estruturada e alças de couro taupe com avesso em camurça e mosquetões de latão.",
+    "fotos": [
+      { "src": "/img/produtos/samb-cacau-still.webp", "alt": "Bolsa Samburá Cacau em crochê marrom sobre pedra, com alças de couro", "tipo": "still" },
+      { "src": "/img/produtos/samb-cacau-alca.webp", "alt": "Detalhe da alça de couro com avesso em camurça e mosquetão de latão", "tipo": "alca" },
+      { "src": "/img/produtos/samb-cacau-trama.webp", "alt": "Macro da trama em ponto pipoca na cor cacau", "tipo": "trama" },
+      { "src": "/img/produtos/samb-cacau-lifestyle.webp", "alt": "Mulher usando a bolsa Samburá Cacau no ombro", "tipo": "lifestyle" }
+    ],
+    "cores": [
+      { "chave": "cacau", "nome": "Cacau", "valor": "#4a3328", "foto": "/img/produtos/samb-cacau-still.webp", "alt": "Bolsa Samburá Cacau em crochê marrom" }
+    ],
+    "preco": "Sob encomenda",
+    "medidas": "A definir",
+    "materiais": "Fio de algodão, alças de couro com avesso em camurça e ferragens de latão.",
+    "prazo": "A definir",
+    "status": "encomenda",
+    "destaque": true
+  },
+  {
+    "slug": "itapua",
+    "nome": "Itapuã",
+    "colecao": "mar",
+    "linha": "Bahia Viva",
+    "resumo": "O turquesa do mar de Salvador.",
+    "descricao": "A Samburá nas cores do mar: turquesa de Itapuã, azul profundo e céu de verão. Alça no tom da trama e ferragens de latão.",
+    "fotos": [
+      { "src": "/img/produtos/bv-mar-de-itapua.webp", "alt": "Mulher sorrindo com bolsa de crochê turquesa no ombro", "tipo": "lifestyle" }
+    ],
+    "cores": [
+      { "chave": "mar-de-itapua", "nome": "Mar de Itapuã", "valor": "#1fa7a8", "foto": "/img/produtos/bv-mar-de-itapua.webp", "alt": "Bolsa de crochê turquesa Mar de Itapuã" },
+      { "chave": "mar-profundo", "nome": "Mar profundo", "valor": "#0e6e70", "foto": "/img/produtos/bv-mar-profundo.webp", "alt": "Bolsa de crochê azul-petróleo Mar profundo" },
+      { "chave": "ceu-de-verao", "nome": "Céu de verão", "valor": "#7ec8e3", "foto": "/img/produtos/bv-ceu-de-verao.webp", "alt": "Bolsa de crochê azul-claro Céu de verão" }
+    ],
+    "preco": "Sob encomenda",
+    "medidas": "A definir",
+    "materiais": "Fio de algodão e ferragens de latão.",
+    "prazo": "Cerca de 2 dias depois da encomenda",
+    "status": "encomenda",
+    "destaque": true
+  },
+  {
+    "slug": "dende",
+    "nome": "Dendê",
+    "colecao": "reconcavo",
+    "linha": "Bahia Viva",
+    "resumo": "A cor quente do Recôncavo.",
+    "descricao": "A Samburá nas cores do Recôncavo: dendê, flamboyant e pitanga. Alça no tom da trama e ferragens de latão.",
+    "fotos": [
+      { "src": "/img/produtos/bv-dende.webp", "alt": "Mulher sorrindo com bolsa de crochê laranja no ombro", "tipo": "lifestyle" }
+    ],
+    "cores": [
+      { "chave": "dende", "nome": "Dendê", "valor": "#e0561f", "foto": "/img/produtos/bv-dende.webp", "alt": "Bolsa de crochê laranja Dendê" },
+      { "chave": "flamboyant", "nome": "Flamboyant", "valor": "#c8302c", "foto": "/img/produtos/bv-flamboyant.webp", "alt": "Bolsa de crochê vermelha Flamboyant" },
+      { "chave": "pitanga", "nome": "Pitanga", "valor": "#d9475b", "foto": "/img/produtos/bv-pitanga.webp", "alt": "Bolsa de crochê rosa-avermelhada Pitanga" }
+    ],
+    "preco": "Sob encomenda",
+    "medidas": "A definir",
+    "materiais": "Fio de algodão e ferragens de latão.",
+    "prazo": "Cerca de 2 dias depois da encomenda",
+    "status": "encomenda",
+    "destaque": true
+  },
+  {
+    "slug": "mandacaru",
+    "nome": "Mandacaru",
+    "colecao": "sertao",
+    "linha": "Bahia Viva",
+    "resumo": "O verde do cacto e o amarelo do cajá.",
+    "descricao": "A Samburá nas cores do sertão: verde mandacaru e amarelo cajá. Alça no tom da trama e ferragens de latão.",
+    "fotos": [
+      { "src": "/img/produtos/bv-mandacaru.webp", "alt": "Bolsa de crochê verde Mandacaru", "tipo": "lifestyle" }
+    ],
+    "cores": [
+      { "chave": "mandacaru", "nome": "Mandacaru", "valor": "#5e8c4a", "foto": "/img/produtos/bv-mandacaru.webp", "alt": "Bolsa de crochê verde Mandacaru" },
+      { "chave": "caja", "nome": "Cajá", "valor": "#f2a922", "foto": "/img/produtos/bv-caja.webp", "alt": "Bolsa de crochê amarela Cajá" }
+    ],
+    "preco": "Sob encomenda",
+    "medidas": "A definir",
+    "materiais": "Fio de algodão e ferragens de latão.",
+    "prazo": "Cerca de 2 dias depois da encomenda",
+    "status": "encomenda",
+    "destaque": false
+  }
+]

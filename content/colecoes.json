@@ -1,0 +1,57 @@
+[
+  {
+    "chave": "mata",
+    "nome": "Mata",
+    "linhas": ["Terra"],
+    "corSelo": "var(--marca)",
+    "corLaje": "#4a3328",
+    "frase": "O cacau do sul da Bahia, em tons de chocolate e caramelo.",
+    "descricao": "A coleção que deu origem à marca. Tramas fechadas, cores da terra e do cacau, para o dia a dia inteiro.",
+    "padrao": "/img/padroes/flor-pipoca.svg",
+    "ordem": 1
+  },
+  {
+    "chave": "mar",
+    "nome": "Mar",
+    "linhas": ["Bahia Viva"],
+    "corSelo": "var(--mar)",
+    "corLaje": "#0e6e70",
+    "frase": "O turquesa de Itapuã, ponto por ponto.",
+    "descricao": "Turquesa, céu e areia. As cores do mar de Salvador numa trama mais aberta, leve como fim de tarde na praia.",
+    "padrao": "/img/padroes/trama-aberta.svg",
+    "ordem": 2
+  },
+  {
+    "chave": "reconcavo",
+    "nome": "Recôncavo",
+    "linhas": ["Bahia Viva"],
+    "corSelo": "var(--dende)",
+    "corLaje": "#c8302c",
+    "frase": "A cor quente do dendê e do flamboyant.",
+    "descricao": "Laranja, vermelho e terracota. A alegria do Recôncavo baiano em bolsas para quem gosta de cor.",
+    "padrao": "/img/padroes/quadrado-da-avo.svg",
+    "ordem": 3
+  },
+  {
+    "chave": "sertao",
+    "nome": "Sertão",
+    "linhas": ["Terra", "Bahia Viva"],
+    "corSelo": "var(--mandacaru)",
+    "corLaje": "#5e8c4a",
+    "frase": "O verde do mandacaru e o ocre do sol do sertão.",
+    "descricao": "Verde-cacto, ocre e palha. A força do sertão em tons que vão do sóbrio ao vibrante.",
+    "padrao": "/img/padroes/linha-corrente.svg",
+    "ordem": 4
+  },
+  {
+    "chave": "chapada",
+    "nome": "Chapada",
+    "linhas": ["Terra"],
+    "corSelo": "var(--caramelo)",
+    "corLaje": "#a8743f",
+    "frase": "Âmbar e cobre, como a água da Chapada Diamantina.",
+    "descricao": "Âmbar, cobre e verde-musgo. A coleção da Chapada está sendo preparada.",
+    "padrao": "/img/padroes/flor-pipoca.svg",
+    "ordem": 5
+  }
+]

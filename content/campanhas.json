@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mata-sambura-cacau",
+    "colecao": "mata",
+    "titulo": "Samburá Cacau",
+    "frase": "Trançada como o samburá. Feita para carregar o que importa.",
+    "modelo": "sambura-cacau",
+    "inicio": "2026-11-01"
+  },
+  {
+    "id": "mar-itapua",
+    "colecao": "mar",
+    "titulo": "Coleção Mar",
+    "frase": "O turquesa de Itapuã, ponto por ponto.",
+    "modelo": "itapua",
+    "foto": "/img/produtos/bv-mar-de-itapua.webp",
+    "alt": "Mulher sorrindo com bolsa de crochê turquesa no ombro",
+    "inicio": "2026-12-01"
+  }
+]

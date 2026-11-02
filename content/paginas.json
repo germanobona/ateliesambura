@@ -1,0 +1,76 @@
+{
+  "inicio": {
+    "colecoesRotulo": "Coleções",
+    "colecoesTitulo": "Da Bahia para o seu dia",
+    "bastidorRotulo": "O ateliê",
+    "bastidorFrase": "Cada ponto leva horas e um pouco da Bahia.",
+    "bastidorTexto": "A marca nasceu em Salvador e hoje vive em Brasília. Cada bolsa é feita à mão, peça por peça, com o tempo que o crochê pede.",
+    "bastidorFoto": "/img/produtos/samb-cacau-trama.webp",
+    "bastidorAlt": "Macro da trama em ponto pipoca na cor cacau"
+  },
+  "encomendas": {
+    "titulo": "Como encomendar",
+    "introducao": "Toda bolsa do ateliê é feita sob encomenda, na cor que você escolher. Me conta o que você imagina e eu cuido do resto.",
+    "passos": [
+      {
+        "titulo": "Escolha o modelo",
+        "texto": "Veja as coleções e escolha a bolsa que é a sua cara."
+      },
+      {
+        "titulo": "Me conta os detalhes",
+        "texto": "Cor da trama, alça e algum pedido especial. Eu tiro suas dúvidas."
+      },
+      {
+        "titulo": "Eu faço à mão",
+        "texto": "Ponto por ponto, no prazo que combinamos."
+      },
+      {
+        "titulo": "Ela chega até você",
+        "texto": "Retirada, entrega ou envio, do jeito combinado."
+      }
+    ],
+    "perguntas": [
+      {
+        "pergunta": "Quanto tempo leva para ficar pronta?",
+        "resposta": "Depende do modelo. O prazo de cada um aparece na página da bolsa e eu confirmo com você na conversa."
+      },
+      {
+        "pergunta": "Posso pedir uma cor que não está no site?",
+        "resposta": "Pode. Me conta a cor que você imagina e eu vejo se tenho o fio."
+      },
+      {
+        "pergunta": "Como recebo minha bolsa?",
+        "resposta": "Combinamos juntas: retirada, entrega ou envio. [Formas e valores a definir]"
+      }
+    ]
+  },
+  "atelie": {
+    "titulo": "O ateliê",
+    "frase": "Trançada como o samburá do pescador.",
+    "paragrafos": [
+      "O samburá é o cesto trançado que os pescadores baianos levam para o mar. Foi dele que veio o nome do ateliê: uma peça feita à mão, para carregar o que importa.",
+      "A marca nasceu em Salvador e hoje vive em Brasília. As cores vêm da natureza da Bahia: o cacau da mata, o turquesa do mar, o dendê do Recôncavo, o verde do sertão e o âmbar da Chapada.",
+      "Cada bolsa é feita ponto por ponto, sem pressa. É por isso que todas são feitas sob encomenda, na cor que você escolher."
+    ],
+    "foto": "/img/produtos/samb-cacau-alca.webp",
+    "alt": "Detalhe da alça de couro com avesso em camurça e mosquetão de latão"
+  },
+  "cuidados": {
+    "titulo": "Cuidados com a sua bolsa",
+    "introducao": "O crochê dura muitos anos quando é bem cuidado. Três cuidados simples fazem toda a diferença.",
+    "itens": [
+      {
+        "titulo": "Lave à mão",
+        "texto": "Sempre à mão, com delicadeza."
+      },
+      {
+        "titulo": "Seque à sombra",
+        "texto": "Longe do sol direto."
+      },
+      {
+        "titulo": "Guarde sem peso",
+        "texto": "Não pendure a bolsa cheia: o peso deforma o crochê."
+      }
+    ]
+  }
+}
